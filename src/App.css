@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.app-title {
+  margin: 2rem auto;
+  font-size: 2rem;
+}
+
+.content {
+  border: solid 1px rgb(154, 149, 149);
+  background-color: #fff;
+  display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin:1rem;
+}
